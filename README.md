@@ -1,7 +1,6 @@
 # 👋 Hi, I'm @zniesen
 
 🎓 B.S. in Neuroscience & Data Science, Belmont University (2025)  
-📧 Contact: [zoe.niesen@bruins.belmont.edu](mailto:zoe.niesen@bruins.belmont.edu)  
 🔗 [GitHub](https://github.com/zniesen) • [LinkedIn](www.linkedin.com/in/zniesen)
 
 ---
