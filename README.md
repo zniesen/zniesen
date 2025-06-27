@@ -30,10 +30,3 @@ I'm a recent graduate passionate about the intersection of neuroscience and data
 - **Soft skills**: Participant recruitment, interdisciplinary teamwork, child & adult research experience
 
 ---
-
-## 📌 Featured Repositories
-
-- [`PRIMED-and-READy-task`](https://github.com/zniesen/PRIMED-and-READy-task)  
-  *Cross-Modal Semantic Priming*  
-- _More coming soon!_
----
