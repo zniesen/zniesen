@@ -31,6 +31,9 @@ I'm a recent graduate passionate about the intersection of neuroscience and data
 
 ---
 
-## 📌 Featured Repositories (coming soon)
+## 📌 Featured Repositories
 
+- [`PRIMED-and-READy-task`](https://github.com/zniesen/PRIMED-and-READy-task)  
+  *Cross-Modal Semantic Priming*  
+- _More coming soon!_
 ---
