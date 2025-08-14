@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @zniesen
+# 👋 Hi, I'm Zoe Niesen
 
 🎓 B.S. in Neuroscience & Data Science, Belmont University (2025)  
 🔗 [GitHub](https://github.com/zniesen) • [LinkedIn](www.linkedin.com/in/zniesen)
